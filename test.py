@@ -6,3 +6,5 @@ var3 = 3
 
 
 var4 = var1 + var2
+
+print (var4 + var3)
